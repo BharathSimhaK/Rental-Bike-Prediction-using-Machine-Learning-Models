@@ -18,11 +18,10 @@ The Machine Learning Models used are:
 - Baseline Model Dummy Regressor
 - K-Nearest Neighbor
 - Decision Tree
-## Architecture 
-![Screenshot](file:///Users/bharathsimha/Downloads/GITAM_PROJECT/D14_MINI_PROJECT/Architecture.png)
+
 ## Documentation
 
-Here is the link to the documentation
+Here is the link to the [documentation](documentation.pdf)
 
 
 ## Repository Structure
